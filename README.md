@@ -1,2 +1,2 @@
-# StringCalculator-01156253-
-This is C# Unit Tests Using NUnit (.NET) for project(StringCalculator)
+# StringCalculator  -01156253-
+This repository contains the source code for unit testing in C# for project(StringCalculator)
